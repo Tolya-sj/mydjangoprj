@@ -1,0 +1,3 @@
+# mydjangoprj
+
+Educational project on django. Nothing special...
